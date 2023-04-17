@@ -1,0 +1,4 @@
+blacklist=[]
+module.exports={
+    blacklist
+}
